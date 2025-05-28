@@ -1,11 +1,13 @@
 # 💼 Smart Banking Analytics Solution  
 **Powered by AI, SQL, Power BI, and Azure — Built for the EYouth Competition**
+![system articture](Screenshot 2025-05-28 233412.png) 
 
 ## 📌 Overview
 
 This project was developed as part of a national **data analytics competition organized by EYouth**, aiming to deliver an **end-to-end smart banking solution** using real banking datasets. The solution focuses on 
 transforming raw data into actionable insights that enhance customer experience, reduce risk, and empower better decision-making across banking departments.
-![System Architecture](dashboard.png)
+
+
 
 ---
 
