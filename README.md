@@ -3,7 +3,10 @@
 
 ## 📌 Overview
 
-This project was developed as part of a national **data analytics competition organized by EYouth**, aiming to deliver an **end-to-end smart banking solution** using real banking datasets. The solution focuses on transforming raw data into actionable insights that enhance customer experience, reduce risk, and empower better decision-making across banking departments.
+This project was developed as part of a national **data analytics competition organized by EYouth**, aiming to deliver an **end-to-end smart banking solution** using real banking datasets. The solution focuses on 
+transforming raw data into actionable insights that enhance customer experience, reduce risk, and empower better decision-making across banking departments.
+
+![Dashboard Preview](assets/dashboard.png)
 
 ---
 
