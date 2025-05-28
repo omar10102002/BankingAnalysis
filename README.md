@@ -1,6 +1,6 @@
 # 💼 Smart Banking Analytics Solution  
 **Powered by AI, SQL, Power BI, and Azure — Built for the EYouth Competition**
-![system articture](Screenshot 2025-05-28 233412.png) 
+![System Architecture](Screenshot%202025-05-28%20233412.png)
 
 ## 📌 Overview
 
