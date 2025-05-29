@@ -11,27 +11,34 @@ transforming raw data into actionable insights that enhance customer experience,
 
 ---
 
-## 🧩 Dataset Description
+## 🗃️ Dataset Composition
+The project is based on 6 interrelated datasets:
 
-The dataset consisted of several interlinked tables simulating a real-world banking environment:
+| Table Name     | Description                                 |
+|----------------|---------------------------------------------|
+| Customers      | Client profiles and demographic info        |
+| Accounts       | Account types and balance history           |
+| Transactions   | Full financial transaction records          |
+| Loans          | Loan types, durations, and interest rates   |
+| Cards          | Issued debit/credit card information        |
+| SupportCalls   | Logged customer service call interactions   |
 
-- **Customers**: Demographic and personal information.  
-- **Accounts**: Account types and balances.  
-- **Transactions**: All financial movements (debits, credits).  
-- **Loans**: Loan amounts, durations, and statuses.  
-- **Cards**: Details about issued credit/debit cards.  
-- **SupportCalls**: Records of customer service interactions.
+---
+
+## ⚙️ Workflow Architecture
+```
+Azure SQL Server --> Python Notebook --> Power BI Dashboards
+                          |                    |
+                        Chatbot <--------------
+```
+
+- **Azure SQL**: Centralized, cloud-hosted, relational database
+- **Python**: Used for cleaning, ML modeling, and forecasting
+- **Power BI**: Used for dashboards, KPIs, and geo-visuals
+- **Chatbot**: RAG-based interface for natural-language insights
 
 ---
 
-## ☁️ Infrastructure Setup
-
-- **Hosted on**: Microsoft Azure  
-- **Database**: SQL Server  
-- **ETL**: Data was cleaned and transformed using SQL and Power Query  
-- **Deployment**: Integration with Power BI and Streamlit (AI chatbot)
-
----
 
 ## 🔧 Project Workflow
 
